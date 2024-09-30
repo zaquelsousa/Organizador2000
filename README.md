@@ -1,15 +1,13 @@
-# Organizador 2000 - Aplicação Web de Calendário
+# Dividir e Conquistar - Aplicação Web de Calendário
 
 ## Descrição
 
-Esse projeto é uma aplicação web desenvolvida em C# usando o padrão de arquitetura MVC (Model-View-Controller). O objetivo principal é praticar minhas habilidades em programação e design de software, incluindo a modelagem completa do sistema antes de começar a codar. o sistema em questao é um simples calendario.
+Estou estudando ADS na puc minas no formato EAD e estou com problemas para gerenciar meu tempo e estudos, vi nisso uma oportunidade de praticar minhas mais novas habilidades(ainda em desenvolvimento) de projetar sistemas. o proposito deste sistema é ajudar no controle de tarefas que tenham varias tarefas assocaidas, por exemplo na puc é separada a materia que tem algumas unidades, que tem alguns temas, que contem o conteudo a ser estudado. Veja a pasta doc para mais informação do projeto, a tecnologia que sera utilizada ainda não foi escolhida.
 
 ## Objetivo
-
-- Praticar Programação: Melhorar minhas habilidades em C# e no desenvolvimento de aplicações web.
 - Design de Software: Focar na modelagem do sistema, criando uma estrutura sólida antes de partir para a implementação.
-- Arquitetura MVC: Implementar o padrão MVC de forma prática, entendendo suas vantagens e como
-aplicá-lo em projetos reais.
+- Modelar e implementar um banco de dados.
+- Praticar os principios SOLID na programação.
 
 ## Como o projeto sera organizado
 
@@ -29,27 +27,19 @@ Irei serpar em duas pastas, **docs** e **src**, sendo que na pasta docs ira cont
 
 ## Tecnologias Usadas
 
-- Linguagem: C#
-- Framework: ASP.NET Core MVC
+- Linguagem: nao definido
+- Framework: nao definido
 - Banco de Dados: MongoDB
 - Ferramentas de Modelagem: draw.io
 - Ferramentas de design: figma
 
 ## Instalação
 
-1. Clone o repositório:`git clone https://github.com/zaquelsousa/Agenda.git`
+1. Clone o repositório:`git clone https://github.com/zaquelsousa/Organizador2000.git`
 2. Instale as dependências:`dotnet restore`
-3. Configure o banco de dados: vou tentar usar mongoDB.
+3. Configure o banco de dados
 4. Rode o projeto: `dotnet run`
 
 ## Como usar
 
 Depois de rodar o projeto, acesse http://localhost:5000 no navegador. Aqui você pode adicionar mais detalhes sobre como usar a aplicação, como funcionalidades principais, etc.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se quiser colaborar, faça um fork do projeto, crie um branch com sua feature ou correção e mande um pull request.
-
-### Licença
-
-Este projeto está licenciado sob a MIT License.

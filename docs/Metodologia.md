@@ -13,7 +13,7 @@ foi utilizado para hospedagem do repositório.
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
+- `doc`: branch para atualização da documentação
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 

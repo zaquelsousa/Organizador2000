@@ -1,5 +1,6 @@
 # Problema
 
+
 Sou estudante da puc minas no formato EAD e estou tendo muitos problemas para me organizar com relação a minha agenda semanal de estudos, eu separei quais materias vou estudar em cada dia da semana, porem a forma como a puc separa as materias dificulta de acompanhar o progresso em cada materia. por que o sistema atual divide as materias em unidades, que por sua vez possuem temas, e esses temas contem as aulas. isso tem me dificultado em acompanhar o que ja foi estudado, onde eu parei. E ainda temos um projeto em grupo que tem as suas necessidades que sao os entregaveis e as reunioes com a professora de projeto. 
 
 ## Objetivo:

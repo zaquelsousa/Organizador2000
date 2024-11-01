@@ -15,11 +15,11 @@ Irei serpar em duas pastas, **docs** e **src**, sendo que na pasta docs ira cont
 
 ## Documentação
 
-- [Documentação de Contexto](./docs/Documentacao%20de%20Contexto.md)
-- [Especificação do Projeto](./docs/Especificação%20do%20Projeto.md)
-- [Metodologia](./docs/Metodologia.md)
-- [Projeto de Interface](./docs/Projeto%20de%20Interface.md)
-- [Arquitetura da Solução](./docs/Arquitetura%20da%20Solução.md)
+1. [Documentação de Contexto](./docs/Documentacao%20de%20Contexto.md)
+2. [Especificação do Projeto](./docs/Especificação%20do%20Projeto.md)
+3. [Metodologia](./docs/Metodologia.md)
+4. [Projeto de Interface](./docs/Projeto%20de%20Interface.md)
+5. [Arquitetura da Solução](./docs/Arquitetura%20da%20Solução.md)
 
 ## Código
 
@@ -27,9 +27,9 @@ Irei serpar em duas pastas, **docs** e **src**, sendo que na pasta docs ira cont
 
 ## Tecnologias Usadas
 
-- Linguagem: nao definido
-- Framework: nao definido
-- Banco de Dados: MongoDB
+- Linguagem: C#, HTML, CSS e JS
+- Framework: ASPNET CORE + EF
+- Banco de Dados: SQL server
 - Ferramentas de Modelagem: draw.io
 - Ferramentas de design: figma
 

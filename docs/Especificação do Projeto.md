@@ -2,38 +2,36 @@
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-
-|RF-01| O sistema deve permtir que o usuario crie tarefas principais | ALTA | 
-|RF-02| o sistema deve permitir que o usuario crie subtarefas para uma tarefa princial ou subtarefa| ALTA | 
-|RF-03| O sistema deve permitir que o usuario associe uma tarefa princiapl a um dia e horario da semana | ALTA | 
-|RF-04| O sistema deve permitir que o usuario cria textos formatados dentro de suas tarefas e sub-tarefas | MEDIA | 
-|RF-05| O sistema deve permitir que o usuario crie listas TODO acossiadas a tarefa princiapal | BAIXA | 
-|RF-06| o sistema deve conter fleshCards associadas a uma tarefa princiapal | BAIXA | 
-|RF-07| o sistema deve mostrar o status de uma tarefa princiapal | MEDIA | 
-|RF-08| o sistema deve permitir que o usuario envie convite para outros usuario participarem de uma tarefa princial | BAIXA | 
-|RF-09| o sistema deve permitir que os usuario de uma tarefa marquem reunioes | BAIXA | 
-|RF-10| o sistema deve permitir que o usuario edite o horario, dia e a duraçao das sessoes | MEDIA | 
-|RF-11| o sistema deve permitir que o usuario vizualize as tarefas a serem realizadas na semana sem formado de grade, bem como vizualizar somente as que vao ser realizadas no dia em que esta acessando o sistema| MEDIA | 
-|RF-12| o sistema deve permitir que o usuario realize login| MEDIA | 
-|RF-11| o sitema deve permitir que o usuario realize auto registro e gerenciamento de suas credenciais de acesso | MEDIA | 
+| ID      | Descrição do Requisito                                                                                 | Prioridade |
+|---------|--------------------------------------------------------------------------------------------------------|------------|
+| RF-01   | O sistema deve permitir que o usuário crie tarefas principais.                                         | ALTA       |
+| RF-02   | O sistema deve permitir que o usuário crie subtarefas para uma tarefa principal ou subtarefa.          | ALTA       |
+| RF-03   | O sistema deve permitir que o usuário associe uma tarefa principal a um dia e horário da semana.       | ALTA       |
+| RF-04   | O sistema deve permitir que o usuário crie textos formatados dentro de suas tarefas e subtarefas.      | MÉDIA      |
+| RF-05   | O sistema deve permitir que o usuário crie listas TODO associadas à tarefa principal.                  | BAIXA      |
+| RF-06   | O sistema deve conter flashcards associados a uma tarefa principal.                                    | BAIXA      |
+| RF-07   | O sistema deve mostrar o status de uma tarefa principal.                                               | MÉDIA      |
+| RF-08   | O sistema deve permitir que o usuário envie convite para outros usuários participarem de uma tarefa principal. | BAIXA      |
+| RF-09   | O sistema deve permitir que os usuários de uma tarefa marquem reuniões.                                | BAIXA      |
+| RF-10   | O sistema deve permitir que o usuário edite o horário, dia e a duração das sessões.                    | MÉDIA      |
+| RF-11   | O sistema deve permitir que o usuário visualize as tarefas a serem realizadas na semana sem formato de grade, bem como visualizar somente as que serão realizadas no dia em que está acessando o sistema. | MÉDIA      |
+| RF-12   | O sistema deve permitir que o usuário realize login.                                                   | MÉDIA      |
+| RF-13   | O sistema deve permitir que o usuário realize auto-registro e gerenciamento de suas credenciais de acesso. | MÉDIA      |
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-
-|RNF-01| A criação de tarefas o usuario deve adcionar um titulo, descrição, representante, dia da semana, horario, tempo da sessao | MÉDIA | 
-|RNF-02| o sistema deve estar disponeivel 99% do tempo durante todos os dias da semana | MÉDIA | 
-|RNF-03| o sistema deve funcionar em diverentes plataformas | MÉDIA | 
-|RNF-04| as listas TODO nao devem afetar o progresso da tarefa princiapal que esta associada | MÉDIA | 
-|RNF-05| as tarefas princiapis devem sempre mostrar o valor atual de seu progresso, bem como quantas subtarefas estao peendentes | MÉDIA | 
-|RNF-06| para seja agenda uma reunião todos os membros de uma tarefa devem aceitar o convite, o convite pode ser criado por qualquer membro | MÉDIA | 
-|RNF-07| o progresso de tarefas e subtarefas devem sempre estarem atualizados, sendo que a ultima subtarefa que sera possivel de se marcar como concluida e apatir dela o progresso sera calculado | MÉDIA | 
-|RNF-08| o tempo de carregamento da interfaçce deve ser no maximo 3 segundos | MÉDIA | 
-|RNF-09| o sistema deve garantir que todas as edições sejam refletidas imediatamente na interfaces | MÉDIA | 
+| ID      | Descrição do Requisito                                                                               | Prioridade |
+|---------|------------------------------------------------------------------------------------------------------|------------|
+| RNF-01  | Na criação de tarefas, o usuário deve adicionar um título, descrição, representante, dia da semana, horário e tempo da sessão. | MÉDIA      |
+| RNF-02  | O sistema deve estar disponível 99% do tempo durante todos os dias da semana.                        | MÉDIA      |
+| RNF-03  | O sistema deve funcionar em diferentes plataformas.                                                  | MÉDIA      |
+| RNF-04  | As listas TODO não devem afetar o progresso da tarefa principal a que estão associadas.              | MÉDIA      |
+| RNF-05  | As tarefas principais devem sempre mostrar o valor atual de seu progresso, bem como quantas subtarefas estão pendentes. | MÉDIA      |
+| RNF-06  | Para que uma reunião seja agendada, todos os membros de uma tarefa devem aceitar o convite, que pode ser criado por qualquer membro. | MÉDIA      |
+| RNF-07  | O progresso de tarefas e subtarefas deve estar sempre atualizado, sendo que a última subtarefa marcada como concluída calcula o progresso. | MÉDIA      |
+| RNF-08  | O tempo de carregamento da interface deve ser no máximo 3 segundos.                                  | MÉDIA      |
+| RNF-09  | O sistema deve garantir que todas as edições sejam refletidas imediatamente na interface.            | MÉDIA      |
 
 
 

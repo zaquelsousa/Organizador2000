@@ -14,9 +14,11 @@
 | RF-08   | O sistema deve permitir que o usuário envie convite para outros usuários participarem de uma tarefa principal. | BAIXA      |
 | RF-09   | O sistema deve permitir que os usuários de uma tarefa marquem reuniões.                                | BAIXA      |
 | RF-10   | O sistema deve permitir que o usuário edite o horário, dia e a duração das sessões.                    | MÉDIA      |
-| RF-11   | O sistema deve permitir que o usuário visualize as tarefas a serem realizadas na semana sem formato de grade, bem como visualizar somente as que serão realizadas no dia em que está acessando o sistema. | MÉDIA      |
+| RF-11   | O sistema deve permitir que o usuário visualize as tarefas a serem realizadas na semana, bem como visualizar somente as que serão realizadas no dia em que está acessando o sistema. | MÉDIA      |
 | RF-12   | O sistema deve permitir que o usuário realize login.                                                   | MÉDIA      |
 | RF-13   | O sistema deve permitir que o usuário realize auto-registro e gerenciamento de suas credenciais de acesso. | MÉDIA      |
+| RF-14   | O sistema deve permitir que o usuário inicie uma sessão de uma tarefa principal, no dia e horario marcado e pelo tempo registrado. | MÉDIA      |
+| RF-15   | O sistema deve permitir que o usuário visualize as tarefas princiais e subtarefas. | MÉDIA      |
 
 
 ### Requisitos não Funcionais

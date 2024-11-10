@@ -8,7 +8,6 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ![Exemplo de Diagrama de Fluxo](imgs/Diagrama%20de%20fluxo%20DQ.drawio.png)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
 ## Wireframes
 
@@ -21,8 +20,6 @@ esta tela do wireframe referesse ao: RF-11 O sistema deve permitir que o usuári
 esta tela do wireframe referesse ao: RF-15 O sistema deve permitir que o usuário visualize as tarefas princiais e subtarefas
 
 
-
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 > **Links Úteis**:
 
